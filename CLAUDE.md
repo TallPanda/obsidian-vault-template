@@ -21,11 +21,11 @@
 
 ## Creating Atomic Notes
 - File goes in `4 - Notes/` — never in a subfolder
-- Filename: slugified title, e.g. `loyalty-in-criminal-gangs.md`
-- If filename already exists, append a disambiguator: `loyalty-in-criminal-gangs-2.md`
+- Filename: slugified title, e.g. `sourdough-fermentation-basics.md`
+- If filename already exists, append a disambiguator: `sourdough-fermentation-basics-2.md`
 - Use `note-template.md`
 - One idea per note — review before splitting. Default is to keep the note together unless splitting genuinely improves clarity. Never split just to hit a word count.
-- Tags via `[[wikilinks]]` in the `Tags:` inline field — example: `Tags: [[gaming]] [[rpg-design]]`
+- Tags via `[[wikilinks]]` in the `Tags:` inline field — example: `Tags: [[cooking]] [[food-science]]`
 - **Never** put tags in YAML frontmatter `tags:` list — always use inline `Tags:` field with wikilinks
 
 ## Creating Source Notes
