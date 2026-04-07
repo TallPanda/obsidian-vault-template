@@ -1,0 +1,14 @@
+{
+  "name": "obsidian-notes",
+  "description": "Vault skills marketplace for Obsidian + Claude Code integration",
+  "owner": {
+    "name": "Vault Owner"
+  },
+  "plugins": [
+    {
+      "name": "obsidian-notes",
+      "description": "Vault skills for Obsidian + Claude Code integration",
+      "source": "./plugins/obsidian-notes"
+    }
+  ]
+}
