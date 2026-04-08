@@ -88,6 +88,7 @@ Never use frontmatter status or filename prefixes to mark drafts. Folder locatio
 ## Design Specs
 - Save new specs to `0 - Meta/Specs/Ongoing/YYYY-MM-DD-<topic>-design.md`
 - Move to `0 - Meta/Specs/Completed/` once the spec has been fully implemented
+- For content-generation guide specs (e.g. software or game guides), use the skill at `0 - Meta/Skills/guide-spec.md`.
 
 ## Session Logs
 
