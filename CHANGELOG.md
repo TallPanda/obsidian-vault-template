@@ -3,6 +3,8 @@
 ## 2026-04-08
 - Added `0 - Meta/Skills/guide-spec.md`: skill for creating content-generation guide specs
 - Updated `CLAUDE.md`: added reference to guide-spec skill under Design Specs
+- Added `/obsidian-notes:guide-spec` callable skill to plugin
+- Added sanitized `yt2doc` skill to plugin
 
 ## 2024-02-01
 - Added ongoing spec: recipe tagging system design
